@@ -1,0 +1,3 @@
+_DATE %{MONTH}%{SPACE}%{MONTHDAY}\s%{TIME}
+_PATH_WORD ([\w_%!$@:.,+~-]+|\\.)*
+_PATH_SLASH /
